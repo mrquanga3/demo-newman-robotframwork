@@ -1,0 +1,4 @@
+robotframework-selenium2library
+robotframework-datadriver
+robotframework-datadriver[XLS]
+robotframework-requests
