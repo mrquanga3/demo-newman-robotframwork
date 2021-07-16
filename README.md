@@ -4,8 +4,8 @@
 * Newman to run test collection from postman with command line mode
 
 ### Installation ###
-####Python 3
-####NewMan
+#### Python 3. #### 
+#### NewMan. #### 
 ### Other tools
 Go to `scripts` then type:
 ```
